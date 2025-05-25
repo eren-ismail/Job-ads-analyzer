@@ -12,7 +12,7 @@ This is a desktop GUI application built with Python and Tkinter that allows user
 - Local SQLite database  
 - Simple Tkinter GUI  
 - Keyword frequency and match ratio analysis  
-- Stopword filtering  
+- Some basic common words filtering  
 
 ## Usage
 
