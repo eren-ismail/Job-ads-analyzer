@@ -34,10 +34,9 @@ This app uses manual input only, no web scraping or API usage, ensuring full leg
 
 Futurue note:
 
-Next versions will include:
-
 - Ploting the results
 - Exporting analyse result.
 - Machine learning integration for job add clasification.
 - Advanced and automatized ETL tools from chosen legally allowed Jobboards via scraping.
 - Monthly KPI of the most-wanted skills.
+- Grouping personalized job roles.
